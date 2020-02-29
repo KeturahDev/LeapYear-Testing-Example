@@ -1,0 +1,17 @@
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Calendar.Tests.deps.json
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Calendar.Tests.runtimeconfig.json
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Calendar.Tests.runtimeconfig.dev.json
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Calendar.Tests.dll
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Calendar.Tests.pdb
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Calendar.dll
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/bin/Debug/netcoreapp2.2/Calendar.pdb
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/obj/Debug/netcoreapp2.2/Calendar.Tests.csprojAssemblyReference.cache
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/obj/Debug/netcoreapp2.2/Calendar.Tests.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/obj/Debug/netcoreapp2.2/Calendar.Tests.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/obj/Debug/netcoreapp2.2/Calendar.Tests.AssemblyInfo.cs
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/obj/Debug/netcoreapp2.2/Calendar.Tests.csproj.CopyComplete
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/obj/Debug/netcoreapp2.2/Calendar.Tests.dll
+/Users/mac/Desktop/Calendar.Solution/Calendar.Test/obj/Debug/netcoreapp2.2/Calendar.Tests.pdb
